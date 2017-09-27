@@ -5,7 +5,7 @@ spring:
     mongodb:
       host: vm-docker
   profiles:
-    active: message1
+    active: message2
       
 ---
 spring:
