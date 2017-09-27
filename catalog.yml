@@ -4,6 +4,8 @@ spring:
   data:
     mongodb:
       host: vm-docker
+  profiles:
+    active: message1
       
 ---
 spring:
