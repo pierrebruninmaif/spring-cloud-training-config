@@ -5,4 +5,4 @@ spring:
     mongodb:
       host: vm-docker
 catalog:
-  message: Salut, toi!
+  message: Salut, toi! Bis!
