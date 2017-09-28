@@ -4,3 +4,5 @@ spring:
   data:
     mongodb:
       host: vm-docker
+  rabbitmq:
+    host: vm-docker
