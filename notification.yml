@@ -2,4 +2,6 @@ server:
   port: 8082
 spring:
   redis:
+    host: vm-docker  
+  rabbitmq:
     host: vm-docker
